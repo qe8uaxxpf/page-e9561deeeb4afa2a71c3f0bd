@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.rtjkdbt.cn/sitemap.xml
